@@ -1,1 +1,1 @@
-![Materiales1](imagenes/material1.png)
+![Materiales1](imagenes/materiales1.png)
